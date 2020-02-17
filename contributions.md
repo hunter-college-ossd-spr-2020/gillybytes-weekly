@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
-|     |     |     |      |
+|  3   |  [New Organization](https://www.openstreetmap.org/changeset/81093397)    |  OpenStreetMap Edit    |  I added Crime Victims Treatment Center.    |
+|  3   |  [New Cafe](https://www.openstreetmap.org/changeset/81098574)   |  OpenStreetMap Edit    |  I added the new cafe that opened by Hunter College, Gong Cha.     |
+|  3   |  [Updated Subway](https://www.openstreetmap.org/changeset/81093579)    |  OpenStreetMap Edit    |  I included more relevant information for an existing subway stop.    |
