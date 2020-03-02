@@ -29,3 +29,6 @@ following the same syntax.
 |  4   |  [Removed Cafe](https://www.openstreetmap.org/changeset/81387682)  |  OpenStreetMap Edit  |  I deleted a closed Starbucks location from the map.  |
 |  4   |  [Updated Cafe](https://www.openstreetmap.org/changeset/81387904)  |  OpenStreetMap Edit  |  I updated the location, hours, phone number, and amenities of an existing Starbucks.  |
 |  4   |  [New Ice Cream Shop](https://www.openstreetmap.org/changeset/81388280)  |  OpenStreetMap Edit  |  I added a Haagen-Dazs to the Fulton Center and included its location and hours.
+|  5   |  [New School](https://www.openstreetmap.org/changeset/81669041)  |  OpenStreetMap Edit  | I added the Montefiore School of Nursing.
+|  5   |  [New Store](https://www.openstreetmap.org/changeset/81669165)  |  OpenStreetMap Edit  | I added Consolidated Plumbing Supply Co.
+|  5   |  [New Store](https://www.openstreetmap.org/changeset/81669324)  |  OpenStreetMap Edit  | I added Foodtown
