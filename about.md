@@ -16,4 +16,5 @@ As a believer in learning by doing, I interned at Bank of America as a Global Te
 
 #### Special Thanks to
 * [Freepik](http://www.freepik.com) for the cover photo
+* [Pixlr](https://pixlr.com/) for the profie photo
 * [Hydejack](https://hydejack.com/) for the theme
