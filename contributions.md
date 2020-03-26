@@ -37,3 +37,4 @@ following the same syntax.
 |  6   |  [New Clinic](https://www.openstreetmap.org/changeset/81936250)   |  OpenStreetMap Edit   |  I added the Westchester Women's Medical Healthcare clinic to my town.   |
 |  6   |  [New Cafe](https://www.openstreetmap.org/changeset/81936318)   |  OpenStreetMap Edit   |  I added the 24-hour Dunkin Donuts to my neighborhood.   |
 |  6   |  [New Restaraunt](https://www.openstreetmap.org/changeset/81936367)   |  OpenStreetMap Edit   |  I added my favorite pizza parlor/Italian restaraunt.   |
+|  9   | [Updated Article](https://en.wikipedia.org/wiki/Fordham_University)   |  Wikipedia Edit   |  I updated the statistics in the info box and updated the name of the graduate school of business.
